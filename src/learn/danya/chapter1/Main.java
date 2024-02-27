@@ -3,6 +3,5 @@ package learn.danya.chapter1;
 public class Main {
     public static void main(String[] args) {
         System.out.println("uwu");
-        System.out.println("uwu");
     }
 }
